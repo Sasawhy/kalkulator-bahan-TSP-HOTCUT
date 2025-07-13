@@ -1,3 +1,9 @@
+repository/
+├── index.html
+├── styles/
+│   └── style.css
+└── scripts/
+    └── script.js
 function hitungTali() {
     // Ambil nilai input
     const kode = parseFloat(document.getElementById('kode-tali').value);
